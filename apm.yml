@@ -1,11 +1,8 @@
 name: concordia
 version: 1.0.0
 description: Concordia is an AI-driven system of collaborative agents that listen, understand, and organize the outcomes of meetings and discussions creating specs.
-author: jmanuelcorral and drdonoso
-
+author: jmanuelcorral & drdonoso
 dependencies:
-  mcp:
-    - azure/azure-mcp
-
-scripts:
-#  discovery-codex: "RUST_LOG=debug codex --skip-git-repo-check discovery.prompt.md"
+  apm: []
+  mcp: []
+scripts: {}
