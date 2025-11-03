@@ -1,5 +1,5 @@
 name: concordia
-version: 1.0.0
+version: 1.0.1
 description: Concordia is an AI-driven system of collaborative agents that listen, understand, and organize the outcomes of meetings and discussions creating specs.
 author: jmanuelcorral & drdonoso
 dependencies:
